@@ -1,1 +1,4 @@
+$DC2resourceGroup = "DC-3"
+$locationeastus2 = "eastus"
 
+New-AzResourceGroup -Name $DC2resourceGroup -Location $locationeastus2
